@@ -1,10 +1,6 @@
 # Web-Design-Challenge
 
 
-"http://htmlpreview.github.io/?https://github.com/A-vital/Web-Design-Challenge/blob/main/landingpage.html"
-
-
-
 Latitude - Latitude Analysis Dashboard with Attitude
 For this homework we'll be creating a visualization dashboard website using visualizations we've created in a past assignment. Specifically, we'll be plotting weather data.
 In building this dashboard, we'll create individual pages for each plot and a means by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
@@ -38,6 +34,10 @@ Displays a responsive table containing the data used in the visualizations.
 The table must be a bootstrap table component. Hint
 The data must come from exporting the .csv file as HTML, or converting it to HTML. Try using a tool you already know, pandas. Pandas has a nifty method approprately called to_html that allows you to generate a HTML table from a pandas dataframe. See the documentation here
 
+
+
+Final Results
+http://htmlpreview.github.io/?https://github.com/A-vital/Web-Design-Challenge/blob/main/landingpage.html
 
 
 
