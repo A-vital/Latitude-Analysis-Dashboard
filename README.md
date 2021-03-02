@@ -1,7 +1,7 @@
 # Web-Design-Challenge
 
 
-[Click here for final results!]("file:///Users/apetek/Desktop/Github/Web-Design-Challenge/landingpage.html")
+[Click here for final results!]("Github/Web-Design-Challenge/landingpage.html")
 
 
 
