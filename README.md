@@ -1,7 +1,7 @@
 # Web-Design-Challenge
 
 
-[Click here for final results!]("Github/Web-Design-Challenge/landingpage.html")
+[Click here for final results!]("http://htmlpreview.github.com/?https://github.com/A-vital/Web-Design-Challenge/blob/main/landingpage.html")
 
 
 
