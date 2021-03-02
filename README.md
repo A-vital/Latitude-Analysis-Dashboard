@@ -1,7 +1,8 @@
 # Web-Design-Challenge
 
 
-<a href="file:///Users/apetek/Desktop/Github/Web-Design-Challenge/landingpage.html"> Click here for final results! </a>
+[Click here for final results!](file:///Users/apetek/Desktop/Github/Web-Design-Challenge/landingpage.html)
+
 
 
 Latitude - Latitude Analysis Dashboard with Attitude
