@@ -46,5 +46,4 @@ The website must, at the top of every page, have a navigation menu that:
 
 
 Final Results
-http://htmlpreview.github.io/?https://github.com/A-vital/Web-Design-Challenge/blob/main/landingpage.html
 
